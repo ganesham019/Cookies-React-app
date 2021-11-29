@@ -1,0 +1,39 @@
+.Titles{
+  font-size: 35px;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  text-transform: uppercase;
+}
+.Titles2{
+  font-size: 25px;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  text-transform: uppercase;
+}
+.Find{
+  color: white;
+  background-color: #332421;
+}
+.Find:hover{
+  color: rgb(108, 235, 207);
+  background-color: #332421;
+
+}
+.find2{
+  border-color: grey;
+  color: gray;
+}
+.CB{
+  width: 40%;
+  height:35px;
+  border: 0.5px solid lightgrey;
+  margin-top:auto;
+  background-color: #532a0d;
+  color: white;
+  border-radius: 10px;
+}
+.CB:hover{
+  color:white;
+}
