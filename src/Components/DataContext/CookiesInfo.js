@@ -12,7 +12,9 @@ class CookiesInfo extends Component {
           <CookiesInfoStyle>
             <div class=" TopCookies m-0 p-0">
               <div class="card TC mt-1 mb-1 pl-0 ">
+                <a href="#" class="">
                 <img class="card-img-top" src={img} alt="" />
+                </a>
                 <div class="card-body">
                   <h4 class="card-title">{CName}</h4>
                   <div class="row flow ">
